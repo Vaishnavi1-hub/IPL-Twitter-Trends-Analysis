@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+# Generated detailed tables can be recreated by analysis.py
+ipl_analysis_output/tables/cleaned_ipl_tweets.csv
+ipl_analysis_output/tables/pca_coordinates.csv
+ipl_analysis_output/tables/engagement_outliers.csv
